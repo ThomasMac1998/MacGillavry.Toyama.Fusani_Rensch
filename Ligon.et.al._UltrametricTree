@@ -1,0 +1,93 @@
+#NEXUS
+[R-package PHYTOOLS, Mon Jan 22 15:28:57 2024]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 40;
+	TAXLABELS
+		Astrapia_mayeri
+		Astrapia_nigra
+		Astrapia_rothschildi
+		Astrapia_splendidissima
+		Astrapia_stephaniae
+		Cicinnurus_regius
+		Cicinnurus_magnificus
+		Cicinnurus_respublica
+		Drepanornis_albertisi
+		Drepanornis_bruijnii
+		Epimachus_fastuosus
+		Epimachus_meyeri
+		Lophorina_superba
+		Lycocorax_pyrrhopterus
+		Manucodia_ater
+		Manucodia_chalybatus
+		Manucodia_comrii
+		Manucodia_jobiensis
+		Paradigalla_brevicauda
+		Paradigalla_carunculata
+		Paradisaea_apoda
+		Paradisaea_decora
+		Paradisaea_guilielmi
+		Paradisaea_minor
+		Paradisaea_raggiana
+		Paradisaea_rubra
+		Paradisaea_rudolphi
+		Parotia_carolae
+		Parotia_helenae
+		Parotia_lawesii
+		Parotia_sefilata
+		Parotia_wahnesi
+		Phonygammus_keraudrenii
+		Pteridophora_alberti
+		Ptiloris_intercedens
+		Ptiloris_magnificus
+		Ptiloris_paradiseus
+		Ptiloris_victoriae
+		Seleucidis_melanoleucus
+		Semioptera_wallacii
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Astrapia_mayeri,
+		2	Astrapia_nigra,
+		3	Astrapia_rothschildi,
+		4	Astrapia_splendidissima,
+		5	Astrapia_stephaniae,
+		6	Cicinnurus_regius,
+		7	Cicinnurus_magnificus,
+		8	Cicinnurus_respublica,
+		9	Drepanornis_albertisi,
+		10	Drepanornis_bruijnii,
+		11	Epimachus_fastuosus,
+		12	Epimachus_meyeri,
+		13	Lophorina_superba,
+		14	Lycocorax_pyrrhopterus,
+		15	Manucodia_ater,
+		16	Manucodia_chalybatus,
+		17	Manucodia_comrii,
+		18	Manucodia_jobiensis,
+		19	Paradigalla_brevicauda,
+		20	Paradigalla_carunculata,
+		21	Paradisaea_apoda,
+		22	Paradisaea_decora,
+		23	Paradisaea_guilielmi,
+		24	Paradisaea_minor,
+		25	Paradisaea_raggiana,
+		26	Paradisaea_rubra,
+		27	Paradisaea_rudolphi,
+		28	Parotia_carolae,
+		29	Parotia_helenae,
+		30	Parotia_lawesii,
+		31	Parotia_sefilata,
+		32	Parotia_wahnesi,
+		33	Phonygammus_keraudrenii,
+		34	Pteridophora_alberti,
+		35	Ptiloris_intercedens,
+		36	Ptiloris_magnificus,
+		37	Ptiloris_paradiseus,
+		38	Ptiloris_victoriae,
+		39	Seleucidis_melanoleucus,
+		40	Semioptera_wallacii
+	;
+	TREE * UNTITLED = [&R] ((14:17.603542,(33:15.20946,((18:8.590528,15:8.590528):1.68994,(17:7.745558,16:7.745558):2.53491):4.928992):2.394082):6.478103,((34:13.097035,(28:10.843782,(31:5.210649,(32:4.506507,(30:1.830769,29:1.830769):2.675738):0.704142):5.633133):2.253253):2.53491,(((39:12.815379,(9:10.280469,10:10.280469):2.53491):0.985798,(40:11.970409,(13:10.280469,((37:2.53491,38:2.53491):5.773962,(36:4.084022,35:4.084022):4.22485):1.971597):1.68994):1.830768):0.985798,(((11:7.463902,12:7.463902):4.084022,((20:4.928992,19:4.928992):4.22485,((2:3.943194,4:3.943194):2.53491,(3:4.788164,(1:1.126627,5:1.126627):3.661537):1.68994):2.675738):2.394082):1.830768,((6:9.013014,(8:5.492306,7:5.492306):3.520708):2.53491,(27:9.717156,(23:6.478104,(26:4.506507,(22:3.239052,(24:1.971597,(21:1.267455,25:1.267455):0.704142):1.267455):1.267455):1.971597):3.239052):1.830768):1.830768):1.408283):0.84497):8.4497);
+END;
